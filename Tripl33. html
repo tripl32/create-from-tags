@@ -1,0 +1,21 @@
+# create-from-tags
+<! DOCTYPE html>
+<Html lang="en">
+<Meta charset="utf-8">
+</From>
+<Input type="text">
+<Input type="text placeholder="tripple t">
+<Input type="text placeholder="tripple t required">
+<Input type="number">
+<Input type="passwords">
+<Title>documents<title>
+<Body>
+<Label>
+<Select name="gender"id="">
+<Label>male</>
+<Option value="male=male>
+<Label> female</>
+<Option value="female"=female</option>
+<Input type="checkbox"> male
+<Input type="checkbox">female
+<Input type="radio"name=""I'd="">
